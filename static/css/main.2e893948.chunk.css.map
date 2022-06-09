@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/TabsPage/TabsPage.scss","webpack://src/components/TabsContent/TabsContent.scss"],"names":[],"mappings":"AAAA,gBCCE,iBDCkB,CAFpB,OACE,iBACkB","file":"main.2e893948.chunk.css","sourcesContent":[".title {\n  margin-top: 1.5rem;\n  padding-left: 10px;\n}\n",".content {\n  padding-left: 10px;\n}\n"]}
